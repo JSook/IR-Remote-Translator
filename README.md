@@ -6,5 +6,5 @@ Power button on the Samsung remote is relayed to the Vizio sound bar, and the so
 Volume up/Volume down from Samsung remote relayed to Vizio sound bar. 
 
 ## Protocols
-Samsung remote uses Samsung protocol (obviously).
+Samsung remote uses Samsung protocol (obviously).  
 Vizio sound bar uses NEC protocol (not as obvious).
